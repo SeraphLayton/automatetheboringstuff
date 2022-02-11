@@ -1,0 +1,2 @@
+# automatetheboringstuff
+https://automatetheboringstuff.com
