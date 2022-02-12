@@ -42,7 +42,6 @@ def isValidChessBoard(board):
             if k in rightvalues.keys():
                 continue
             else :
-                print("invalid board (pieces are not correct)")
                 return False
 
         if str(board).count('bpawn') > 8 or str(board).count('wpawn') > 8: #check for max 8 pawns on both sides [3]
