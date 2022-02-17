@@ -27,4 +27,4 @@ try:
     f.write(text)
 
 except KeyboardInterrupt:
-    pass 
+    pass
